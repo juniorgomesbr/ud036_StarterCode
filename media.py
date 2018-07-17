@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie():
     """Essa classe define o objeto Movie (Filme)"""
     def __init__(self,
