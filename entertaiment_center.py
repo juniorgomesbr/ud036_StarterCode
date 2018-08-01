@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+# coding: latin-1
 import media
 import fresh_tomatoes
 
@@ -16,7 +18,7 @@ avatar = media.Movie(
 
 inception = media.Movie(
     "Inception",
-    "Don Cobb é um ladrão que invade os sonhos das \
+    "Don Cobb e um ladrao que invade os sonhos das \
     pessoas e rouba segredos do subconsciente.",
     "https://upload.wikimedia.org/wikipedia/pt/thumb/7/74/A_origem_poster_portugues.jpg/250px-A_origem_poster_portugues.jpg",  # noqa
     "https://www.youtube.com/watch?v=d3A3-zSOBT4")
