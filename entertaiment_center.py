@@ -1,7 +1,8 @@
-#!/usr/local/bin/python
-# coding: latin-1
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import media
 import fresh_tomatoes
+
 
 # Define os filmes favoritos
 toy_story = media.Movie(
